@@ -3,4 +3,4 @@ First repository
 
 What is up! 
 
-I'm making an attempt to better myself an dincrease my knowledge.
+I'm making an attempt to better myself and increase my knowledge.
